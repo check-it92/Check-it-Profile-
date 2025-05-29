@@ -1,6 +1,10 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HELLO%20I'm Check_it%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=We%20Can%20Do%20It!&descAlignY=51&descAlign=62"/>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HELLO%20I'm%20Check_it%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=We%20Can%20Do%20It!&descAlignY=51&descAlign=62" 
+    alt="header"
+  />
 </p>
+
 
 <p>
     <div align="center">
